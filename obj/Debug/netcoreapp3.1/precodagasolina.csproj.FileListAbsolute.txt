@@ -1,0 +1,13 @@
+C:\Users\samsung\Desktop\Senai\Backend\precodagasolina\obj\Debug\netcoreapp3.1\precodagasolina.csprojAssemblyReference.cache
+C:\Users\samsung\Desktop\Senai\Backend\precodagasolina\obj\Debug\netcoreapp3.1\precodagasolina.AssemblyInfoInputs.cache
+C:\Users\samsung\Desktop\Senai\Backend\precodagasolina\obj\Debug\netcoreapp3.1\precodagasolina.AssemblyInfo.cs
+C:\Users\samsung\Desktop\Senai\Backend\precodagasolina\obj\Debug\netcoreapp3.1\precodagasolina.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\Senai\Backend\precodagasolina\bin\Debug\netcoreapp3.1\precodagasolina.exe
+C:\Users\samsung\Desktop\Senai\Backend\precodagasolina\bin\Debug\netcoreapp3.1\precodagasolina.deps.json
+C:\Users\samsung\Desktop\Senai\Backend\precodagasolina\bin\Debug\netcoreapp3.1\precodagasolina.runtimeconfig.json
+C:\Users\samsung\Desktop\Senai\Backend\precodagasolina\bin\Debug\netcoreapp3.1\precodagasolina.runtimeconfig.dev.json
+C:\Users\samsung\Desktop\Senai\Backend\precodagasolina\bin\Debug\netcoreapp3.1\precodagasolina.dll
+C:\Users\samsung\Desktop\Senai\Backend\precodagasolina\bin\Debug\netcoreapp3.1\precodagasolina.pdb
+C:\Users\samsung\Desktop\Senai\Backend\precodagasolina\obj\Debug\netcoreapp3.1\precodagasolina.dll
+C:\Users\samsung\Desktop\Senai\Backend\precodagasolina\obj\Debug\netcoreapp3.1\precodagasolina.pdb
+C:\Users\samsung\Desktop\Senai\Backend\precodagasolina\obj\Debug\netcoreapp3.1\precodagasolina.genruntimeconfig.cache
